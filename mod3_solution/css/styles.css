@@ -66,6 +66,7 @@ section{
 	color: #004c4c;
 	padding: 7px;
 	height: 1000px;
+	overflow: hidden;
 }
 
 .tname{
