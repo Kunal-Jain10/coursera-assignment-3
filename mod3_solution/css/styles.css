@@ -59,13 +59,13 @@ body{
 	color: black;
 }
 
-section{
+section {
 	margin:40px 5px;
 	background-color: #b2d8d8;
 	border:2px black;
 	color: #004c4c;
 	padding: 7px;
-	height: 1000px;
+	height: 2000px;
 	overflow: hidden;
 }
 
